@@ -1,0 +1,8 @@
+1234567-John Doe-123 Main St Orlando FL 32822-25.50
+7654321-Sarah Jones-1136 Gorden Ave Orlando FL 32822-40.54
+1112223-Alex Carter-45 Pine Rd Orlando FL 32809-0.00
+7654321-Duplicate Sarah-999 Fake St Orlando FL 32801-10.00
+222333-Bad Id Person-12 Elm St Orlando FL 32810-15.00
+3334444-No Name--20.00
+4445555-Mary Johnson-56 Oak Dr Orlando FL 32807-300.00
+5556666-Bob Smith-78 Maple Ave Orlando FL 32808-12.75
